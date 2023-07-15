@@ -21,7 +21,7 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
 - 📝 Checkout my [Resume](/Resume.pdf).
 
 ## Languages and tools
-![](https://skillicons.dev/icons?i=html,css,js,python,C++,mysql,react,Node,git,figma)
+![](https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql,react,nodejs,git,discord,figma)
 
 ## Projects and Dev Stuffs:
 
