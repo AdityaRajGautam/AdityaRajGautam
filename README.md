@@ -12,16 +12,16 @@
 
 I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-- 🛠 I’m currently working with React.js & Django.
+- 🛠 I’m currently working with React.js & Node.js.
 - 🚀 I’m currently learning Full-Stack Development.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/ofmukesh).
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AdityaRajGautam).
 - 💬 Ask me about anything [here](https://github.com/ofmukesh/ofmukesh/issues/)! I am happy to help.
-- 👾 Fun fact: null.
-- 📫 How to reach me: of.mukesh@gmail.com.
+- 👾 Fun fact: Playing FPS games.
+- 📫 How to reach me: 404arg@gmail.com.
 - 📝 Checkout my [Resume](/Resume.pdf).
 
 ## Languages and tools
-![](https://skillicons.dev/icons?i=html,css,js,python,mysql,react,django,flask,git,figma)
+![](https://skillicons.dev/icons?i=html,css,js,python,C++,mysql,react,Node,git,figma)
 
 ## Projects and Dev Stuffs:
 
