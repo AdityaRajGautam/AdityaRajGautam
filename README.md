@@ -14,7 +14,7 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
 - 🛠 I’m currently working with React.js & Node.js.
 - 🚀 I’m currently learning Full-Stack Development.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AdityaRajGautam).
-- 💬 Ask me about anything [here](https://github.com/ofmukesh/ofmukesh/issues/)! I am happy to help.
+- 💬 Ask me about anything [here](https://github.com/AdityaRajGautam/ofmukesh/issues/)! I am happy to help.
 - 👾 Fun fact: Playing FPS games.
 - 📫 How to reach me: 404arg@gmail.com.
 - 📝 Checkout my [Resume](/Resume.pdf).
@@ -36,20 +36,20 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
   
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=AdityaRAjGautam)
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=AdityaRajGautam)
 </details>
 
 <details>	
   <summary><b>🏆 Github Trophies</b></summary>
   <br />
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaRAjGautam)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaRajGautam)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 <div align="center">
 
 ### ❤️ Thank you for visiting my profile ❤️
-![](https://komarev.com/ghpvc/?username=marco)
+![](https://komarev.com/ghpvc/?username=AdityaRajGautam)
 
 
 </div>
