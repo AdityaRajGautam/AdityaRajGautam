@@ -17,7 +17,8 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
 - 💬 Ask me about anything [here](https://github.com/AdityaRajGautam/AdityaRajGautam/issues/)! I am happy to help.
 - 👾 Fun fact: Playing FPS games.
 - 📫 How to reach me: 404arg@gmail.com.
-- 📝 Checkout my [Resume](/Resume.pdf).
+- 📝 Checkout my [Resume]().
+[Aditya resume.pdf](https://github.com/AdityaRajGautam/AdityaRajGautam/files/13980672/Aditya.resume.pdf)
 
 ## Languages and tools
 ![](https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql,react,nodejs,git,discord,materialui,bootstrap,figma)
