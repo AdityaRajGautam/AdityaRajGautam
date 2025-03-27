@@ -14,7 +14,7 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
 
 - 🛠 I’m currently working with React.js & Node.js.
 - 🚀 I’m currently learning Full-Stack Development.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AdityaRajGautam).
+- 👨🏻‍💻 Most of my projects are available on [Github]([https://github.com/AdityaRajGautam](https://github.com/AdityaRajGautam?tab=repositories)).
 - 💬 Ask me about anything [here](https://github.com/AdityaRajGautam/AdityaRajGautam/issues/)! I am happy to help.
 - 👾 Fun fact: Playing FPS games.
 - 📫 How to reach me: 404arg@gmail.com.
